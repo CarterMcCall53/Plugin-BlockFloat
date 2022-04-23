@@ -1,0 +1,4 @@
+name: BlockFloat
+version: '${version}'
+main: dev.cmccall.blockfloat.BlockFloat
+api-version: 1.18
